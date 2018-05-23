@@ -1,4 +1,7 @@
 name = input("Wie heisst Du? ")
-print ("Hallo, " + name)
+if (name == "Alexander"):
+	print ("Hallo, " + name)
+else:
+	print ("Sicher nicht!")
 
 
